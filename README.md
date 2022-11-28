@@ -14,6 +14,6 @@ html css javascript bootstrap Java Oracle MySQL Spring Boot AWS GIT GIT
 
 
 📊 My Github Stats
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ypawan25)](https://github.com/Ypawan25/github-readme-stats)
 
 
