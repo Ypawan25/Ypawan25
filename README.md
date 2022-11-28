@@ -7,7 +7,7 @@ I'm an Object-oriented, design Self-motivated and curious, with a keen interest 
 
 💬 Ask me about anything, i would love to help 😄
 
-👨‍💻 Checkout my Portfolio & my linkedin profile
+👨‍💻 Checkout my [Portfolio](https://ypawan25.github.io/) & my [linkedin profile](https://www.linkedin.com/in/ypawan25/)
 
 
 
