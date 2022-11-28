@@ -1,17 +1,20 @@
 ### Hi there 👋
- I'm Pawan, An Aspiring Backend Developer with a specialization in Java, Spring Boot, SQL,REST APIs with a passion for learning with an endless supply of optimism and curiosity. I'm an Object-oriented, design Self-motivated and curious, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging work environment.
+ I'm Pawan, An Aspiring Backend Developer with a specialization in Java, Spring Boot, SQL,REST APIs with a passion for learning with an endless supply of optimism and curiosity.
 
-<!--
-**Ypawan25/Ypawan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Object-oriented, design Self-motivated and curious, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging work environment.
 
-Here are some ideas to get you started:
+💼 Do reach email
+💬 Ask me about anything, i would love to help 😄
+👨‍💻 Checkout my Portfolio & my linkedin profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sangram's LinkedINSangram's Leetcode
+
+Languages and Tools:
+
+html css javascript bootstrap Java Oracle MySQL Spring Boot AWS GIT GIT
+
+
+📊 My Github Stats
+
+
+
