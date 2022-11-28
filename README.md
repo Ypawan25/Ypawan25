@@ -1,13 +1,23 @@
-
- <h1 align="center">Hi 👋, I'm Pawan Kumar Yadav</h1>
+<h1 align="center">Hi 👋, I'm Pawan Kumar Yadav</h1>
 <h3 align="center">An Aspiring Backend Developer with a specialization in Java, Spring Boot, SQL,REST APIs with a passion for learning with an endless supply of optimism and curiosity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ypawan25&label=Profile%20views&color=0e75b6&style=flat" alt="ypawan25" /> </p>
 
+- 🔭 I’m currently working on [Fabbag](fabbag.com)
+
+- 👯 I’m looking to collaborate on [OutlookIndia](outlookindi.com)
+
+- 🤝 I’m looking for help with [BlueFly](bluefly.com)
+
+- 👨‍💻 All of my projects are available at [https://ypawan25.github.io/](https://ypawan25.github.io/)
+
+- 📫 How to reach me **impawankryadav@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BGIILkoq4rbR0e_ZFBeu9tYki1cDK32R/view?usp=sharing](https://drive.google.com/file/d/1BGIILkoq4rbR0e_ZFBeu9tYki1cDK32R/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ypawan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ypawan25" height="30" width="40" /></a>
- <a href="https:///ypawan25.github.io/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMmnNP7mkOL4nKiQqkjxwaa7h042MuO62PNg&usqp=CAU)" alt="ypawan25" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,6 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ypawan25&show_icons=true&locale=en" alt="ypawan25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ypawan25&" alt="ypawan25" /></p>
-
-
-
