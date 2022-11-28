@@ -7,7 +7,6 @@ I'm an Object-oriented, design Self-motivated and curious, with a keen interest 
 💬 Ask me about anything, i would love to help 😄
 👨‍💻 Checkout my Portfolio & my linkedin profile
 
-Sangram's LinkedINSangram's Leetcode
 
 Languages and Tools:
 
