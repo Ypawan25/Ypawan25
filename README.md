@@ -3,7 +3,7 @@
 
 I'm an Object-oriented, design Self-motivated and curious, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging work environment.
 
-💼 Do reach email [link](impawankryadav@gmail.com)
+💼 Do reach email [link](Ypawan25.github.io)
 💬 Ask me about anything, i would love to help 😄
 👨‍💻 Checkout my Portfolio & my linkedin profile
 
