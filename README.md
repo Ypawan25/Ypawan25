@@ -1,4 +1,4 @@
-### Hi there 👋
+
  <h1 align="center">Hi 👋, I'm Pawan Kumar Yadav</h1>
 <h3 align="center">An Aspiring Backend Developer with a specialization in Java, Spring Boot, SQL,REST APIs with a passion for learning with an endless supply of optimism and curiosity.</h3>
 
@@ -26,6 +26,6 @@
 
 
 <h3> 📊 My Github Stats <h3>
-![My  GitHub stats](https://github-readme-stats.vercel.app/api?username=Ypawan25&show_icons=true&theme=radical)
+[My  GitHub stats](https://github-readme-stats.vercel.app/api?username=Ypawan25&show_icons=true&theme=radical)
 
 
