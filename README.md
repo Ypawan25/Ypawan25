@@ -7,6 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ypawan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ypawan25" height="30" width="40" /></a>
+ <a href="https:///ypawan25.github.io/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMmnNP7mkOL4nKiQqkjxwaa7h042MuO62PNg&usqp=CAU)" alt="ypawan25" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,14 +19,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ypawan25&" alt="ypawan25" /></p>
 
-
-👨‍💻 Checkout my [Portfolio](https://ypawan25.github.io/) & my [linkedin profile](https://www.linkedin.com/in/ypawan25/)
-
-
-
-
-
-<h3> 📊 My Github Stats </h3>
-[My  GitHub stats](https://github-readme-stats.vercel.app/api?username=Ypawan25&show_icons=true&theme=radical)
 
 
