@@ -25,7 +25,7 @@
 
 
 
-<h3> 📊 My Github Stats <h3>
+<h3> 📊 My Github Stats </h3>
 [My  GitHub stats](https://github-readme-stats.vercel.app/api?username=Ypawan25&show_icons=true&theme=radical)
 
 
