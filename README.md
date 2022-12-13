@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Pawan Yadav</h1>
 <h3 align="center">A Passionate aspiring Java Backend Developer skilled in Java stack, moulded and shaped by Masai school’s intensive and immersive learning. Looking at joining a challenging work environment where I can develop a deeper understanding of web development.</h3>
-<img align="right" alt="coding" width ="550" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
+<img align="right" alt="coding" width ="450" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ypawan25&label=Profile%20views&color=0e75b6&style=flat" alt="ypawan25" /> </p>
 
