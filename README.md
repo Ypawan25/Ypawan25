@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
-- 👨‍💻 All of my projects are available at [https://ypawan25.github.io/](https://ypawan25.github.io/)
+- 👨‍💻 All of my projects are available at [MyPortfolio](https://ypawan25.github.io/)
 
 - 💬 Ask me about **coding, because that's what excites me**
 
