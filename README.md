@@ -32,33 +32,18 @@
 
 <h2 align="center">📊 My Github Stats<h2>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ypawan25&theme=onedark" alt="Error" />
-    </p>
+ </p>
     </br>
-     <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ypawan25&theme=radical" width="48%" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ypawan25&show_icons=true&theme=radical" width="48%" />
-  </p>
+    <p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ypawan25&theme=radical" width="48%" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ypawan25&show_icons=true&theme=radical" width="48%" />
+   </p>
   </br>  
   <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypawan25&theme=radical&langs_count=8" width="30%" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ypawan25&theme=radical&langs_count=8" width="30%" />
   </p> 
 <br>
-    </p>
-    </br>
-     <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Updesh012&theme=radical" width="48%" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Updesh012&show_icons=true&theme=radical" width="48%" />
-  </p>
-  
-  </br>
-
-  
-  <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Updesh012&theme=radical&langs_count=8"  width="24%"/>
-   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Updesh012&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
-</p>
  
-<br>
 
 
   
