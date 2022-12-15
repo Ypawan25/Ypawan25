@@ -40,7 +40,7 @@
    </p>
   </br>  
   <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ypawan25&theme=radical&langs_count=8" width="70%" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ypawan25&theme=radical&langs_count=8" width="30%" />
   </p> 
 <br>
  
