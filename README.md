@@ -37,7 +37,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ypawan25&show_icons=true&theme=radical" width="48%" />
    </p>
   </br>  
-  <p align="left">
+  <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ypawan25&theme=radical&langs_count=8" width="30%" />
   </p> 
 <br>
