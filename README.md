@@ -12,9 +12,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ypawan25&label=Profile%20views&color=0e75b6&style=flat" alt="ypawan25" /> </p>
 
 
-
-- 👯 I’m looking to collaborate on **Interesting Projects**
-
 - 👨‍💻 All of my projects are available at [MyPortfolio](https://ypawan25.github.io/)
 
 - 💬 Ask me about **coding, because that's what excites me**
