@@ -42,7 +42,7 @@
   
   
   
-<h2 align="center">📊 My Github Statistics<h2>
+<h2 align="center">📊 My Github 
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ypawan25&theme=onedark"            alt="Error" />
  </p>
   </br>
