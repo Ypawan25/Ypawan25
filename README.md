@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [MyPortfolio](https://ypawan25)
 
-- 💬 Ask me about **coding, because that's what excites me**
+- 💬 Ask me about **coding, because thatexcites me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
