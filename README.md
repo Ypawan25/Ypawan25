@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-<h1 align="center">Hi 👋, I'm Pawan Yadav</h1>
+<h1 align="center">Hi 👋, I'm Pawan Kumar Yadav</h1>
 <h3 align="center"> Looking at joining a challenging work environment where I can develop a deeper understanding of web development. Learning every day</h3>
 <img align="right" alt="coding" width ="450" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
