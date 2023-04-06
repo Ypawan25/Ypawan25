@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pawan Kumar Yadav</h1>
-<h3 align="center"> Looking at joining a challenging work environment eper understanding of web development. Learning every day</h3>
+<h3 align="center"> Looking at joining a challenging work environment. understanding of web development. Learning every day</h3>
 <img align="right" alt="coding" width ="450" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ypawan25&label=Profile%20views&color=0e75b6&style=flat" alt="ypawan25" /> </p>
